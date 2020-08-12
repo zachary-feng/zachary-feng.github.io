@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Zachary Feng
 ---
 
-This is my page.
+Hello, how is it going?
+
+I have found a proof of the Riemann Hypothesis, but I accidentally burned my notebook. Sorry.
