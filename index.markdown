@@ -7,8 +7,8 @@ layout: default
 Here is my [CV](https://drive.google.com/file/d/1wzcu3tAG1ugrM5PNs4VyZ-_pRUc00ehZ/view?usp=sharing).
 
 Here are some things that I have written:
-- (coming soon!) The ideal class group and the unit group
 - (coming soon!) Quadratic reciprocity via number fields
+- (2020/09) [The ideal class group and the unit group](https://drive.google.com/file/d/1sjlV0JuwBzEjQPJYaF-bCvnQK6IZJ7CE/view?usp=sharing)
 - (2020/08) [Typical structure of a hereditary property](https://drive.google.com/file/d/1mcB_F1cl4_Ad8WHDSnBxsS_NwsolzZX_/view?usp=sharing)
 - (2020/04) [Solving the 4-by-4 Lights Out puzzle](https://drive.google.com/file/d/1pCQBEMuFNAUI60hEiKKjEv_DLU5RBGzM/view?usp=sharing)
 - (2019/12) [Class groups in the context of binary quadratic forms and number fields](https://drive.google.com/file/d/1zMFsCFtF95_Zf2YLwfpoP4hVRuuz-Fdg/view?usp=sharing)
