@@ -7,7 +7,7 @@ layout: default
 Here is my [CV](https://drive.google.com/file/d/1HW9ZYBkFWsKvLv4rYb00ZO92R_uCdn3U/view?usp=sharing).
 
 Here are some things that I have written:
-- (2021/11) [Modularity of elliptic curves over Galois CM fields](https://drive.google.com/file/d/1z31kgwKeSGuRtGSVZqdfXRStBYXcz4Nn/view?usp=sharing) ([PA](https://patrick-allen.github.io/))
+- (2021/11) [Modularity of elliptic curves over Galois CM fields](https://drive.google.com/file/d/14eeLXGN8SrHFYLnihw5jBpOI9p0nbkbY/view?usp=sharing) ([PA](https://patrick-allen.github.io/))
 - (2020/10) [Quadratic reciprocity via number fields](https://drive.google.com/file/d/1Yqu3imdlYFgAaIKkqETZXWpxwnYAiYLq/view?usp=sharing) ([DRP](https://www.math.mcgill.ca/gsams/drp/))
 - (2020/09) [The ideal class group and the unit group](https://drive.google.com/file/d/1nQt3uq-YfYGqaaz7TF6hAYoES335Jukz/view?usp=sharing) ([DRP](https://www.math.mcgill.ca/gsams/drp/))
 - (2020/08) [Typical structure of graphs in a hereditary family](https://drive.google.com/file/d/1mcB_F1cl4_Ad8WHDSnBxsS_NwsolzZX_/view?usp=sharing) ([SN](https://www.math.mcgill.ca/snorin/))
