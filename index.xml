@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello! on Zachary Feng</title>
+    <title>Zachary Feng</title>
     <link>https://zachary-feng.github.io/</link>
-    <description>Recent content in Hello! on Zachary Feng</description>
+    <description>Recent content on Zachary Feng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://zachary-feng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://zachary-feng.github.io/about/</guid>
-      <description>I am a student.</description>
+      <description>This page has not been updated.</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://zachary-feng.github.io/cv/</guid>
-      <description>You can download my CV here.</description>
+      <description>This page has not been updated.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://zachary-feng.github.io/research/</guid>
-      <description>Here is a list of my research.</description>
+      <description>This page has not been updated.</description>
     </item>
     
   </channel>
