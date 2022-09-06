@@ -12,16 +12,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://zachary-feng.github.io/about/</guid>
-      <description>This page has not been updated.</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://zachary-feng.github.io/cv/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zachary-feng.github.io/cv/</guid>
-      <description>This page has not been updated.</description>
+      <description>Previously, I was a master&amp;rsquo;s student at McGill University, advised by Patrick Allen. I completed my undergraduate degree at McGill University as well.</description>
     </item>
     
     <item>
@@ -30,7 +21,8 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://zachary-feng.github.io/research/</guid>
-      <description>This page has not been updated.</description>
+      <description>A lower bound on the proportion of modular elliptic curves over Galois CM fields. [arXiv]
+Submitted.</description>
     </item>
     
   </channel>
