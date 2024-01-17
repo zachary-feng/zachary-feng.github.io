@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zachary Feng</title>
-    <link>https://zachary-feng.github.io/</link>
-    <description>Recent content on Zachary Feng</description>
+    <title>Study-groups on Zachary Feng</title>
+    <link>https://zachary-feng.github.io/study-groups/</link>
+    <description>Recent content in Study-groups on Zachary Feng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://zachary-feng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://zachary-feng.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zachary-feng.github.io/about/</guid>
-      <description>Previously, I was a master&amp;rsquo;s student at McGill University, advised by Patrick Allen. I also completed my undergraduate degree at McGill University, during which time I spent a semester at the National University of Singapore as an exchange student.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://zachary-feng.github.io/study-groups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global reciprocity study group</title>
       <link>https://zachary-feng.github.io/study-groups/global-reciprocity/</link>
@@ -28,16 +19,6 @@ Week Number Topic Speaker Week 2, Jan 25 TBD TBD Week 3, Feb 1 TBD TBD Week 4, F
     </item>
     
     <item>
-      <title>Learning</title>
-      <link>https://zachary-feng.github.io/learning/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zachary-feng.github.io/learning/</guid>
-      <description>Study Groups Hilary 2024: Montreal functor study group Hilary 2024: Global reciprocity study group Notes Here are some notes I&amp;rsquo;ve written mostly to help with my own understanding on some topics. I&amp;rsquo;ve uploaded them on the off chance that another student may find them helpful. Please beware of the many lingering typos and errors that may be present.
-Emerton&amp;rsquo;s construction of eigenvarieties via completed cohomology The local Langlands correspondence and the Bernstein-Zelevinsky classification Local zeta functions and the local functional equation (from Tate&amp;rsquo;s thesis) </description>
-    </item>
-    
-    <item>
       <title>Montreal functor study group</title>
       <link>https://zachary-feng.github.io/study-groups/montreal-functor/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
@@ -46,16 +27,6 @@ Emerton&amp;rsquo;s construction of eigenvarieties via completed cohomology The 
       <description>This is the homepage for the weekly study group on Colmez&amp;rsquo;s Montreal functor organized by Finn Wiersig, James Taylor and myself in Hilary Term 2024 at Oxford.
 Schedule All talks will be held on Thursdays, 11.15 to 12.30 in C2. Please email me if you would like to be added to or removed from the current mailing list.
 Week Number Topic Speaker Week 2, Jan 25 TBD TBD Week 3, Feb 1 TBD TBD Week 4, Feb 8 TBD TBD Week 5, Feb 15 TBD TBD Week 6, Feb 22 TBD TBD Week 7, Feb 29 TBD TBD Week 8, Mar 7 TBD TBD References Vytautas Paskunas, The image of Colmez&amp;rsquo;s Montreal functor </description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://zachary-feng.github.io/research/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zachary-feng.github.io/research/</guid>
-      <description>A lower bound on the proportion of modular elliptic curves over Galois CM fields. [arXiv]
-To appear in International Journal of Number Theory.</description>
     </item>
     
   </channel>
